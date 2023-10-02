@@ -1,3 +1,4 @@
+Text
 Hit Compile.  1 Error.  Fix it. Hit compile again.  927234 errors.
 Write a code WHY THE FUCK WON'T YOU WORK
 My code doesn't work Lets change nothing and run it again
@@ -213,7 +214,6 @@ Attach debugger NO REPRO
 Write in assembly. Bitches love assembly.
 Firefox...good, Safari...good, Chrome...good, Opera...good ...I fucking hate you IE
 BOSS ASKS TO SHOW THE PROGRAM ALWAYS HAS THE OLD VERSION
- 
 This code sucks! I'm going to check the annotations to see who did this... Oh...
 Write a code Teacher complains you didn't do it his way
 753 fucking errors...what the hell... oh look I missed a semicolon
@@ -569,7 +569,6 @@ Create meme about a software programmer Don't know the difference between progra
 while  ( x  -->  0 )  WHILE X GOES TO ZERO MUST BE A NEW OPERATOR
 *Girl say's BRB* *Still Think's she will be right back and wait's* (4 Hours pass) 
 CHECK CODE FROM A YEAR AGO FIND A COMMENT YOU LEFT FOR YOUR FUTURE SELF
- 
 Firefox for firebug. Chrome for browsing.
 MY CODE WORKS I HAVE NO IDEA WHY
 MEU CODIGO NAO FUNCIONA: EU NAO SEI POR QUE MEU CODIGO FUNCIONA: EU NAO SEI POR QUE Caption 3 goes here
