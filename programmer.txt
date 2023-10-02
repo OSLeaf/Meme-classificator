@@ -1,0 +1,1222 @@
+Hit Compile.  1 Error.  Fix it. Hit compile again.  927234 errors.
+Write a code WHY THE FUCK WON'T YOU WORK
+My code doesn't work Lets change nothing and run it again
+Should I remove this code ... or just comment it out until management changes their mind
+THE 3 STAGES OF THE I.T. GUY'S PARADOX  1. WHY THE FUCK WON'T THIS WORK? 2. HOW THE FUCK IS "THIS" WORKING? 3. FUCK IT IT'S WORKING NOW.
+Grading programming student's code. Code compiles. Fuck, now I have to grade this.
+doesn't get joke searches through comments for clues
+Write a code Go back and look at it thinking how awesome you are
+Program works as it should. Change nothing, run again, doesn't work anymore 
+WHAT MORON WROTE THIS SHIT? Oh... I did
+Write code Wonder why the fuck people keep saying "writing a code"
+IT'S WORKING BUT I HAVE NO IDEA WHY
+if (!disabled || !notRemoved)  incomplete = false;  What?
+So glad that I can't Relate to this
+Not sure if should do what boss said ... or do what would actually fix application
+I've had to pee for the last 2 hours But I don't want to lose my train of thought
+Tell people I write code for a living Why do they keep asking me for sc2 coaching?
+Write a code Go back later, look at it thinking "What the fuck was I thinking" Caption 3 goes here
+I WISH I COULD RELATE TO THIS BUT I'M NOT A PROGRAMMER
+ I'M ON REDDIT LOL
+I don't need to document, Good code documents itself WHAT THE HELL IS GOING ON HERE? WHY DIDN'T I DOCUMENT?! 6 Months later...
+There is no reason this doesn't work! ;
+Parents hear I'm doing PHP GET SENT TO REHAB FOR NO REASON
+Code works on the first try SHIT.
+Write code Get much more attractive guy to sit in front of computer for Reddit
+Spends 5 hours working on a bug Took only 1 line of code to fix
+Look at code of others Hate them for not writing comments
+"Do you want to destroy Worthless Brewfest Trinkets? "Type DELETE into the field below to confirm." [____________]
+Code for six minutes Debug for six hours
+Write code that automates tedious and error prone task and no one cares. Calculate average of spreadsheet column instant hero.
+"HELLO WORLD" I'm a fucking genius
+Which dumbass wrote this crap? Oh, it was me
+Update someone else's code . . . Thank fuck it's as bad as mine
+It works! On Firefox and Chrome
+Fixing this bug should solve things. Makes things worse.
+SIX STAGES OF DEBUGGING 1. THAT CAN'T HAPPEN. 2. THAT DOESN'T HAPPEN ON MY MACHINE. 3. THAT SHOULDN'T HAPPEN. 4. WHY DOES THAT HAPPEN? 5. OH, I SEE. 6. HOW DID THAT EVER WORK?
+Looking at code I wrote years ago... "What the hell was I thinking?"
+Program doesn't work PRINT EVERY VARIABLE IN EXISTENCE
+Ok, so the code didn't run properly. I'll add a print statement to check what it is doing It runs perfectly
+QA reported a bug? bitch, that's a feature.
+Write some code Go back and think, now I have to document this.
+No one has asked this question on Stack Overflow yet I'm fucked
+Programmer: Makes it idiotproof Evolution: Sends improved idiot
+Finally figures out a Microsoft API FORGETS WHY.
+Got A New Error Making Progress
+What the fuck?  Who wrote this shit? Oh, that's right, it was me lol Caption 3 goes here
+I got 99 problems But a glitch ain't one
+010101110110100001100001011101000010000001100100011010010110010000100000011101000110100001100101001000000111000001100101011011100110011101110101011010010110111000100000011100110110000101111001001000000111010001101111001000000111010001101000011001010010000
+100 little bugs in the code Fix a bug 100 little bugs in the code
+package meme.trollface.rage;  public class Rage {     public void main() {         while(true) {             System.out.println("LOL!");         }     } } Y U CRASH?
+Knows 5 Programming Languages and highly complex Programming Stuff DOES NOT HAVE A SINGLE CLUE HOW TO CONNECT A NETWORK DRIVE IN WINDOWS
+class Women{} OBJECTIFING WOMEN
+Mistype last letter DELETE WHOLE PASSWORD, START AGAIN
+COMMENT OUT   i = i + 1 - 1; EVERYTHING IS BROKEN FOREVER
+My code works I have no idea why
+Wife asked me to buy a bottle of milk, and if they eggs, buy six Bought six bottles of milk; they had eggs
+Has been programming for 5+ years Googles "How to convert string to int in Java" regularly
+Mmhm. Yea. Mmhm. Oh, yea yea yea. I know some of these words.
+"I sucessfully compiled this C program at first try" Said no one ever
+2 IN REAL LIFE 10 IN BINARY
+WRITE CODE NOW FIGURE OUT HOW THE HELL TO TEST THIS THING
+OH FINALLY ECLIPSE LOADED MY WORKSPACE
+Write a code before I write a code, and then I write two more
+Compiles and runs flawlessly on the first try Something must be terribly wrong
+Has a funny status update Only programmer friends understand...
+Chris Lin Mr. Kramer Software Engineering      As for actual programming, I have done very little. In a few hours I plan to embark on a long journey into Slick, a game development engine our  team will be using to create our JRPG project, which we refer t
+Start programming Fuck it, back to reddit Caption 3 goes here
+Computer programming isn't funny.
+Corrected memory leaks, cleaned up useless code , program works much faster and cleaner. The GUI looks exactly the same so the boss thinks I've been jacking off for the last week.
+They See Me Coding They Hatin'
+Been trying to think of what to name this variable for the past 4 hours Caption 3 goes here
+Compile. 2 errors. Fix.  Compile. 1 error. Fix. Compile. 37 errors
+Implement algorithm that solves ultra complex problem Boss upset over font color
+Updated a table WITHOUT WHERE CLAUSE
+My code doesn't work let's try >= instead of >
+Try to show a co-worker an exception I've gotten over and over The program runs without the exception
+WHY ISN'T THIS WORKING? WAIT, IS THAT A COMMA?
+GOD DAMMIT JUST FUCKING COMPILE
+var nameName; I'm a bad programmer
+Been writing code segment for last 2 hours. Too afraid to compile.
+Use swear words as function names Accidently submit code
+BROKEN CODE HAS NO COMMENTS, TRIES TO FIND AUTHOR TO BITCH AT  OH, IT WAS ME.
+IT DOESN'T WORK I DON'T KNOW WHY IT WORKS I DON'T KNOW WHY
+Why would they name a Number 'bool'?
+...that box with all the little holes is back... just act natural:it will eventually lose interest and move on...
+Code working on the first try. Something is terribly wrong.
+Write some code Go back and look and think what the f*ck have I done
+Didn't sleep for 2 days because of a semicolon
+I DON'T NEED TO COMMENT THIS I'LL DEFINITELY REMEMBER HOW IT WORKS
+HELLO THIS IS A TEST, FIRST MEME EVER AND I WANT TO SEE JUST HOW MUCH YOU CAN TYPE BEFORE THE WORDS BECOME UNREADABLE ON MY 17INCH LAPTOP SCREEN, MAYBE I SHOULD PUT MORE DETAILS ABOUT THE LAPTOP BCAUSE I'M RUNNING OUT OF WHAT TO SAY, DELL 17R  SE -7720 - 
+How can I possibly account For every insanely stupid thing the user will do
+Who wrote this shit? Oh wait... it was me
+Could it be so easy?!?! paradise.createTicket(2)
+IT'S NOT WORKING BUT I HAVE NO IDEA WHY IT WAS WORKING BEFORE
+I am not a programmer stop posting my picture
+I don't know what the fuck Im doing lol, imma go on reddit Caption 3 goes here
+I accomplished nothing today If one of my enemies were recently slain, I'd have no alibi
+Leave code in working condition the previous night Find it broken the following morning 
+Can you go to the store and buy milk ? While you're there can you look for eggs ? Never returns
+Create a meme to gripe about code not working Captions teeming with punctuation and spelling errors
+Forgot change to .h RECOMPILE THE WORLD
+Writes the same code 10 times "I should really write a method"
+I should get off reddit and start coding... OOOOO A PROGRAMMER MEME!
+C++ code won't compile Throw asterisks around until it does
+I DIDN'T CHOOSE THE CODE LIFE THE CODE LIFE CHOSE ME.
+JavaScript Maaan, fuck JavaScript
+Code the right way, saving countless hours in the future? Nah, dirty hacks instead
+What the fuck Is with your spacing?
+Write code HOW THE FUCK DID THAT WORK?
+Write code IT WORKS
+Variable not found ITS RIGHT FUCKING THERE!
+Joins Stream Sees no one else is watching and leaves
+I SENT THAT GLITCH A BUG REPORT GLITCHES LOVE BUG REPORTS.
+#define TRUE  0 #define FALSE 1 // Happy debugging  suckers!
+Says he's a computer programmer alert('hello world');
+Spend 2 days writing code Realize approach will never work
+Code doesn't work but there were no compile errors ...well fuck
+Writes sweet background task library for shell Can't understand why still single
+Doesn't sleep for 2 days because of a fucking comma
+Fix all 4 compilation errors, compile again. 37 MORE ERRORS
+I'm great at version control. default.aspx, default1.aspx, default2.aspx
+User enters letter not number Better return a fatal error
+Write an "original" solution Discover very similar solution on codeplex
+ITS WORKING BUT I DONT KNOW WHY
+I'M HERE TO WRITE CODE AND FUCK BITCHES
+CANT COMPILE! FUCK EVERYTHING! THIS IS FUCKED! I FUCKING GIVE UP! Oh. Semi-colon. 
+CAN I MAKE THIS ANY MORE COMPLEX? IF NO ONE BUT ME CAN UNDERSTAND IT....JOB SECURE
+SPENT FIVE MINUTES TRYING TRENDY NEW LANGUAGE TIME TO CONVERT ALL OUR PRODUCTS TO IT
+try  {        GetKarma();  } catch {        DeletePost();  }
+Write a code Y U NO COMPILE?
+my code works perfectly let's change it
+Proudly show significant other your masterpiece Signifigant other simply replies: "Uh huh."
+Code doesn't work Put a +1 somewhere hmmm, it work.
+Program works perfect on test computer. Copy to another.... Crashes
+Who Needs Arrays, Loops and Strings When You Got IF STATEMENTS
+Working From Home Today Still 15 Minutes Late
+DAMNIT I hate coding on a laptop.
+Im a ruby developer I make worthless hipster apps that no one will ever use
+"Who wrote this shitty code?!" Check SVN log Realize you wrote it
+what the fuck is this meme even about?
+Can't find a tutorial or answer on how to do it, It must be impossible.
+All I wanted to do is make video games. WTF is a malloc?
+THAT MOMENT HALFWAY THROUGH YOUR CODE WHEN YOU REALIZE YOU'RE DOING IT THE MOST INEFFICIENT WAY POSSIBLE
+Learn Emacs keybindings Look like a noob, using other editor
+1000 lines of code fails to compile forgot one semicolon
+LOOKING AT SOMEONE ELSE'S CODE WHY DOES EVERYONE SUCK BUT ME?
+I FORGOT TO EAT LUNCH IT WAS SITTING RIGHT IN FRONT OF ME
+Is this PHP or Ruby? I need to stop getting high before work.
+3rd night without sleep of the week. Hear business majors complaining about 1 hour of homework in the commons.
+MATLAB  making it simpler to fuck up difficult things at 4:20
+Add a few comments Better recompile
+Who wrote this shitty code?   .. Oh Me.
+Want to sound smart to my non-programming friends  Say words like polymorphism and abstract classes
+Too lazy to comment code No idea what any of it does in 2 weeks
+Student Programmer Has a book and 3 websites open at all times. Still knows better than to say "Write a code."
+Search hours for a mistake MISSING A FUCKING SEMICOLON
+Writes some Haskell code What the fuck am I doing
+Who wrote this crappy code? Oh, it was me three months
+College programming classes: write a program that works correctly get a C because professor's way is more correct.
+Write some code Go back and look at it thinking how awesome you are
+Write code HOW IS THAT A NULL POINTER EXCEPTION
+Compiling program with powerful debugger. Use output statements instead.
+WANTED TO BE A PROGAMER NOW I'M A PROGRAMMER 
+Write a code Realize there's a more efficient way. Don't give a fuck.
+Feel stressed while coding Masturbate
+Write a complicated line of code Feel like a boss
+Spent 2000 dollars on my computer Would like to use it for exams
+Code works in Chrome, Safari,Firefox aaand FUCK YOU IE!
+USED ==  INSTEAD OF === die()
+IF YOU'RE HAVING RUNTIME EXCEPTIONS I FEEL BAD FOR YOU SON I GOT 99 PROBLEMS BUT A NULL POINTER AINT ONE.
+Mysterious error in code?! PRINT STATEMENTS EVERYWHERE!!!
+You're getting an error? That's funny.  IT WORKS ON MY COMPUTER.
+Spend 3 weeks perfecting behind-the-scenes algorithm No one cares Spend 3 minutes making simple GUI COMPUTER GENIUS
+Cat steps on keyboard. OMFG, IT WORKS.
+Underneath this contemplative gaze Is a seething cauldron of  CODER RAGE
+This company is a kludge How do they handle millions of customers and billions of dollars?
+IT'S WORKING ON THE FIRST TRY SOMETHING MUST BE WRONG
+Write a code that doesn't work I've gone over this for 3hrs where the fuck is it!! Caption 3 goes here
+Spent hours on code. Already in Java API.
+Hates  programming Ends up programming for the rest of the life
+Ahhhh I finally understand why i'm still a virgin Caption 3 goes here
+Write extremely complicated code with no comments that works Instant job security
+STARES AT CODE FOR AN HOUR SOLVES PROBLEM IN 2 MINUTES
+Frustrated that code doesn't work. Takes a hike. Comes back forgetting the purpose of code. Caption 3 goes here
+PARENTHESIS INSTEAD OF CURLY BRACKET SPEND HOURS TRYING TO FIGURE OUT WHATS WRONG
+No SLS event last Thursday Can now afford computerized exams
+Can't concentrate because of noisy people around Solution: Headphones + Deftones
+Distributed cloud? Oh you mean the internet!
+Programming Meme How Clever Can I Be
+// magic happens here - don't touch WTF?!
+Finally get code to compile Segmentation fault
+Been using python for months, now I have to do something in c "import stdio"
+WHAT MORON WROTE THIS SHIT? OH, WAIT...  PUBLISHER: GUZIDA WELL FUCK...
+MY REPLACE OPERATION IS NOT WORKING TROLLED BY A FUCKING NULL STRING
+THERE IS NO REASON FOR THIS NOT TO WORK! ;
+Hit Compile.  1 Error.  Fuck it. Surf Reddit for an hour.
+WHY THE FUCK ISN'T THIS SOFTWARE WORKING? FUCK IT, I'LL JUST TELL THEM IT'S INCOMPATIBLE
+BOSS: Cool now can you make it look good I'm a programmer not a designer
+I just wrote a cache That my ass couldn't check.
+Write a code Parse Error: Expecting 'some'
+/** **/
+Has a research paper due in 12 hours Makes a meme instead
+Write a code Sit back and think how gay Andrew McDonald is
+Drink a coffee. Drink a coffee. Drink a coffee. Write a code. Drink a coffee. Write a code. Drink a coffee. Write a code. Write a code. Drink a coffee. Write a code. Write a code. Write a code. Write a code. Drink a coffee. Write a code. Write a code. Dri
+Become a programmer they said You will learn to make videogames they said
+My Code Works I Don't Know Why
+Begin learning to code Give up within 5 minutes.
+TAKING NOTES IN CLASS USES // TO COMMENT 
+How many programmers does it take to change a lightbulb? None, the only light is from their screens
+Don't comment anything INSTANT JOB SECURITY
+Writes a LOOONG script and forgets EVERY COMMAND NEEDS TO END WITH A SEMICOLON
+Attach debugger NO REPRO
+Write in assembly. Bitches love assembly.
+Firefox...good, Safari...good, Chrome...good, Opera...good ...I fucking hate you IE
+BOSS ASKS TO SHOW THE PROGRAM ALWAYS HAS THE OLD VERSION
+ 
+This code sucks! I'm going to check the annotations to see who did this... Oh...
+Write a code Teacher complains you didn't do it his way
+753 fucking errors...what the hell... oh look I missed a semicolon
+Code works first time cue feeling of impending doom
+...that box with all the little holes is back... just act natural:it will eventually loose interest and move on...
+Change nothing, compile again Everything is ruined forever
+"1 error found": I'll just add the missing semicolon here and recompile. "5 errors found"
+Why Isn't it working? FORGOT A SEMI-COLON 
+Rabbits? "They're not dying off fast enough."
+I've already had them restart their computer I'm all out of ideas
+Decided to take a break Tell everyone I'm compiling
+Documentation you say? Oh sure, i'll get right on it.
+doesn't understand program asks everyone in D207 
+I don't always promote code... But when I do, I promote straight into production.
+Three seconds to find what's wrong Three hours to fix it
+Use jQuery... Now you're a Front End Developer.
+Oh hey, a ticket from the Help Desk ARE YOU FUCKING KIDDING ME?
+I went to a 4-year university for computer science because I don't know how to learn on my own. I'll be fine as long as no new technology ever comes out.
+Look at old code Wonder what the fuck I was thinking.
+A METRIC FUCKTON OF SYNTAX ERRORS MISSING ONE CURLY BRACE
+drunk coding last night... MAGIC!
+My code doesn't work I have no idea why
+Error on line 27! But line 27 is perfect?!
+i need a break in my switch statement
+Writes a code spends two hours rewriting failing code... realizes original code had an extra semi-colon
+Stare blankly at monitor Old and washed up!
+At night, launch a code into production.... In the morning, INBOX(9999)
+Get bored with in-laws over Thanksgiving break Write C++ functions to do the Fourier transform on user-input signal data because your boss doesn't know how to use the fftw library
+Write a code Sit back and think how would Michael do this
+Make Change. Code Runs. Already Forgot What I Changed
+Code doesn't  work  Better change my variable name 
+Wonder who wrote shitty code. Check repository and realize it was you. Caption 3 goes here
+IS READY TO LEARN PROGRAMMING, MAKES HIS FIRST "HELLO WORLD" PROGRAM IN ASSEMBLY. Caption 3 goes here Caption 4 goes here
+Boss said to do regression testing for *EVERY* changes I make... Pfft... that's what end users are for.
+Segmentation Fault hmmm. (Inserts 30 Printfs)
+When I tell people I code for a living... "Oh! Can you fix my computer?"
+this code is really badly written but it works... FUCK IT!
+fix one error creates two more errors
+Encounter difficult computational problem brute force it
+I met my true love online Cunt. (cunts) (lol)
+Forget to close that parenthesis? Forget sleeping tonight.
+for (i = 99; i >=0; i--){ /*I bet you didn't even know you could do it this way*/
+1.1 + 1.09 =2.1900000000000004 God dammit Javascript...
+C program run. C program crash. C programmer quit. 
+haha I'M HACKING YOUR COMPUTER FAGGOT
+Finally get the blit field to work!!! Can't share on Facebook, because nobody cares.
+Write a code Feel like a god
+LOL LOL LOL Tell me again human!
+Spend all day writing most beautiful code of your life. Boss decides to outsource project
+"Do you want tea or coffee?" TRUE
+My code works and I don't know why I should probably look at porn
+Took AP Comp Sci Failed the fuck out of it
+I already designed websites before… WHY THE FUCK IS COMPUTER SCIENCE SO HARD AT UNIVERSITY
+HAS TO REDO OTHER PLEB'S CODE GETS SUPER ANGRY Caption 3 goes here
+If you have coding problems I feel bad for you son! i got 99 problems but a glitch ain't one!
+I got 99 logic errors but a compilation error ain't one.
+Don't know how to code it... COPY PASTE FROM THE INTERNET
+No new code in past few days Team spending all their time at Reddit? Caption 3 goes here
+Breakpoint not working Ran instead of debugged...
+I know how to fix it But that would take me way longer that I want it to take
+What do you mean css? I thought there was only html in dreamweaver?
+see programmer meme pic try to see what ide he's using
+Write a code fap fap fap fap fap
+getRandomNumber() {return 4;}  RANDOM!
+Gets bug report Blames it on the artists
+Trying to pass a string to an integer method? YOUR ARGUMENT IS INVALID
+learn about graph search algorithms every problem is now a graph problem
+ I have no idea what I'm doing
+write a code to theme reddit as IDE
+Y U NO WORK!? Oh, I forgot a semicolon.
+IT'S WORKING BUT I HAVE NO IDEA WHY
+Did extensive online research on Photography To prepare for a course on  Basic Photography
+WHY THE FUCK WON'T MY CODE WORK? USED AN "=" AFTER PRINT
+If this works... I won't know why but I will still be THE MASTER!
+Complains about government infringing on privacy has facebook
+Man, I can't wait to go home and get crunk.
+Firefox 17.0.1 is available... I'll just wait for version 18
+SEEMS LIKE WORKING HE'S THINKING ABOUT HIS LAST STARCRAFT MATCH
+Recoding this for the last time Recodes again 2 weeks later
+I don't drink coffee How the fuck do I write code?
+Used curlies instead of parens FUCK PERL
+Tired of bugs Write something else
+Make new developers implement your complex and risky idea New code crashes - lol I didn't do it
+WHO THE FUCK DID THIS DUMB SHIT? Oh, it was me...
+Hello World All your job are belong to India.
+Needed some numbers calculated Whip up code like a boss
+DEVELOPER USING INTERNET EXPLORER FACEPALM.
+Clever use of types PROGRAM MAGICALLY WORKS
+This code is too hard for me to understand. The guy who wrote it must have been a moron.
+WHERE THE FUCK AM I MISSING A SEMICOLON?
+Pretend to write code Because no actual programmer looks like this
+Yamil:MMMMMM Nadie le da like a mis estados! :( Entonce lo hare Yo :D
+who wrote this crap? oh wait, it was me.
+start program feeling like shit finish it feeling like the smartest person in the world 
+Write a code Forgets encryption key Caption 3 goes here
+"This should take four hours max" Now working the second day on it
+Write a code Or waste company time looking up programmer memes then post them to Facebook 
+Got ready for bed early and then remembered there was INTERNET
+Who the hell wrote this? SVN Blame: Me
+"OK, this should work..." *** STACK SMASHING DETECTED ***
+Decides to become self taught programmer. Two months later: "Hello World"
+Getting strange bug, better get someone else to look at it run it again, compiles perfect, no bugs and you look like an idiot.
+WE'LL BE READY TO LAUNCH IN JUNE OF 2015
+ANOTHER HACKATHON? DO I LOOK LIKE YOUR  FUCKING PERSONAL SLAVE? 
+Claims to be a Software Engineer I have no idea what I'm doing
+What is that * after int? Pointers? Huh? We never learned that in Java
+Post happy birtday on my wall DELETES IT AND REPOSTS   TROLL JONNY
+Programs LabView WHY THE FUCK WON'T YOU WORK?
+The world is one big open source project Why the hell am I working on this
+I know PHP, Coldfusion, Cobo,l Fortran and a bunch of other cool high tech words
+This doesn't work on eclipse I should try vim
+Write a code WHY THE FUCK WON'T YOU WORK
+Bite my shiny metal ass says the robot from futerama
+Google "CString" Life is never the same
+afraid to use vim 
+Hit Compile. Error. Pubic class.
+CLASSPATH! FUCK!
+Code has perplexing bug I'll just think about it while playing online gaming
+WROTE A HELLO WORLD IN ERLANG EXPERT IN ERLANG
+Writing a plain text document. Keep putting semicolons at the end of sentences;
+// Return the result return result;
+click "build" completely forget about job for two hours
+My code doesn't work. spend 4 hours on google finding out why forgot a semi-colon
+Girlfriend can't decide where she wants to go for dinner Write program that decides for her
+Spend 18 months learning latest MVC, JAVA PHP, RUBY, and C# 99% of work done with 5 lines of VB4
+it's almost ready to get pushed to the live server ...nevermind
+Looks busy But learned to sleep with his eyes open
+Use = Instead of == Spend hours trying to find your mistake
+ITS NOT WORKING  AND I HAVE NO IDEA WHY ITS WORKING! BUT I HAVE NO IDEA WHY!
+Error in language that is not case sensitive "Must be case sensitive"
+"Professional Software Engineer" "What do you mean look at the memory address?? I thought this was managed code!"
+Spends 1000 dollars On a shitty school dell
+Missed a semicolon Fuck, where is it?!
+Looks at his own code who wrote this shit?
+Compile code, 4 errors. Fuck it, good enough.
+Not sure if locked out of REDDIT or... wait - HOW THE FUCK THEY LOCK ME OUT OF REDDIT?
+ work sucks... ya ya!
+Another exception? Gotta catch 'em all !
+emacs color codes WHY THE FUCK ARE PEOPLE USING vi?!
+set up girlfriends computer because it's too damn slow messes up and everything is worse than before
+Compiler says I'm missing semicolon Won't tell me where
+Time to write some code FFS they fucked up the merge again
+Inception = kids stuff Come watch me nest some parenthesis
+Trying to explain why code isn't working to someone non IT literate Usually ends up with "I'M TRYING TO FIX IT! FUCK OFF!"
+Spend three hours trying to figure out why it won't work. Forgot a fucking semicolon.
+Wrote a Class months ago What does this function do? Nobody knows. Not even me.
+WORKS ON EVERY FUCKING MACHINE EXCEPT PRODUCTION
+Hmmm wife is at the store.. Asian porn today!!!
+What is this I don't even
+has an idea lost it when explaining to dumb friend
+There are no comments. Dang it! That means that I'll actually have to learn this programming language!
+Code doesnt work Change all > for <
+Setting fancy variable names for fun I'll rename them later
+10% Luck, 20% Skill, 15% Concentrated power of will. 5% Pleasure, And 50% Pain
+I HAVE NO IDEA WHAT I JUST WROTE MAYBE I SHOULD JUST STARE AT IT FOR A FEW MINUTES
+FIX THE ISSUE IN INTERNET EXPLORER THE SITE NOW LOOKS LIKE DOGSHIT IN ALL OF THE GOOD BROWSERS
+HOW IT REALLY WORKS 1) FUCK IT REALLY is broke 2) TAKE IT BACK TO OFFICE 3) GOOGLE IT  
+950 LINES OF CODE ONE MISSING COMMA. VAGUE ERROR. AGONY. Caption 3 goes here
+Finally find the source of an error after 45 minutes. Missing semicolon.
+"Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"? MAN, PERL IS HARD
+NO, NO ES UN ERROR SOLO ESTABA APUNTANDO A UNA CARPETA INCORRECTA
+Write code Make money
+I HAVE NO IDEA IF MY CODE WORKS
+MAKE IT "POP" WHAT THE FUCK DOES THAT MEAN
+My code from last year... God I was so fucking stupid.
+I've got 99 problems But a glitch ain't one!
+This doesn't look like Minesweeper!! On to Porn I guess....
+Father's middle name is asdfgh; LIFERAY DEVELOPER
+Looked at perfect family portrait for 20 minutes Has no idea how it got frontpage
+Me levante a programar algo... ...No puedo recordar que.
+"Hello World" Fuckin Nailed It!
+Fallout 4 is coming, Battlefield 4 is coming, Halo 4 came AND NO FUCKING NEWS ABOUT KILLZONE 4
+My code works Better break the tests to make sure
+PROGRAM NOW WORKS DIDN'T CHANGE ANYTHING
+"CANNOT COVERT TYPE INT TO STRING" ADD .TOSTRING() IT MUST WORK
+This doesn't work....and I don't know why.... This works....and I don't know why.....
+Who wrote this shit?!?! (scroll up) Find your name
+WORKS OVERTIME TO COMPLETE FEATURE FEATURE GETS DROPPED NEXT DAY
+Writes function that saves to .txt saves in japanese
+My code isn't working. STACK OVERFLOW WILL KNOW WHY.
+Find a library that solves all your problems.  Incompatible with small but core component. 
+Wont compile in C++ FUCK IT I'LL USE JAVA
+Fix bug... ...create 10 more.
+Notes? Fuck it, I'll add movie references
+Let's use Hadoop he said. Let's explore different use cases on your own timeframe he said.
+Perforce Visual Client: Merge down. Right-click. Resolve Files... Hit revert by accident.
+Internet Explorer...... WHY THE FUCK WON'T YOU WORK
+FUCK FUCK FUCK FUCK
+WTF, WHY ISN'T THIS COMPILING? WTF, HOW DID I MISS THAT?
+Run code.  Not working as expected.  Run again.  Working as expected. "Huh."
+500 Lines of Errors MISSING SEMICOLON
+ FUCK THE GROUP PROJECT!
+I have no idea of what I'm doing. fucking computers.
+This should work probably 
+Write far too much code FUCK YEAH, COMPILES
+Ah, Here's the problem: I'm using fucking Eclipse
+Program Compiles? SHIP IT!
+Wow equalsIgnoreCase really helps!
+Labview 8.6 Enough Said
+I MET MY TRUE LOVE ONLINE BUT SHES ACTUALLY 12 
+1 Issue Remaining? I'll just fix that. 684 Issues Remaining
+Start Coding Fingers Default to WASD
+My name is James Muscle wizard lol (oww) (lol)
+Didn't sleep for 2 days because of a colon
+Why the fuck  is there 3 anti-viruses on here
+Writes a bunch of loops. Code fails miserably Used = instead of == once
+QA reported a bug? bitch, thats a feature.
+Write a code and it fails Run code again to be sure, how the fuck could it not work!?
+Don't know what's wrong.  Don't know how long it will take to find out.  Don't know how long it will take to fix.  Don't know what I don't know.  Don't know what Dave knows.  Don't know what you want. gimme about half an hour
+Last 10% takes 90% of the time. Why? Because you spend 90% of the time asuming you know what to do only to realise that someone forgot to mention 10% of the features, which forces you to rewrite the 90% you already did in 10% of the time so that you can a
+You want a one-sentence summary of a project I spent six months on? IT GOES DING WHEN THERE'S STUFF
+The arrow is purple And I don't know why
+WHAT IS THIS? OH ITS SHITWARE
+New Javascript code works first time Break out the Champagne.
+Spends 2 hours trying to fix a bug. Solution doesn't work but finds out there was a function all along
+Wants to catch overflow exception Uses try/catch
+OCT31? MERRY CHRISTMAS!
+Can't tell if he's serious or just a retard... 
+... must resist logging into Minecraft ...
+Declare a temporary variable Herp or Derp
+Write code for 2 hours Square now turns blue
+Programmer? Nope, just Facebook "Hacker"
+Range("A1").Value = "Hello, World!" Yeah, I'm awesome at VBA
+I don't get it... IT WORKS ON MY BOX!
+define('TRUE', FALSE); *Snickers*
+RECURSION... Nahhh, ill go look at porn instead.
+JANUARY: LEARN NEW CODE MARCH: OBSOLETE
+Scumbag Web Developer Overwrites all files on the server with his old, outdated copies
+Creates heavy and complex OOP application Can't insert a new row in Excel
+ He isn't even programming anything
+multi-dimensional arrays... simulated reality?
+FAGGOT FAGGOT FAGGOT FAGGOT faggot daragh mciney faggot Caption 8 goes here
+Penis
+People with a BS in Computer Science Know Computer Science > Computer Information Systems The difference being about three semesters of excruciating mathematics. 
+16 errors, fix something 28 errors
+Supposed to be working on game Ends up playing it 
+My program does not work Lets try inheriting from a fourth class...
+If you can write code Why do you need a user-friendly GUI to add captions to a photo?
+All variables are favorite celebrity names no comments explaining what they do
+Spend 40 minutes debugging loop, still wont break Forgot to type second equal sign somewhere  
+Geek rule #43212: Real geeks have a Dell latitude D820
+This probably doesn't need comments. Next day: THE FUCK IS THIS SHIT?
+Changed character to lower case. Program stops working. Forever.
+Maybe if I go to the Registry, I could get rid of this virus Deletes performance data key
+Bitches about no one commenting their code DOESN'T COMMENT OWN CODE
+MOORE'S LAW: BY THE TIME YOU CLEAN UP YOUR CODE PROCESSING SPEEDS WILL BE FAST ENOUGH TO HANDLE THE OLD CODE
+Theoretically this code is perfect. Theoretically...
+Compile code the first time. It doesn't work. Change nothing, compile code again. Works flawlessly.
+Code works perfectly Show boss, app crashes
+AP Computer science  AP COUNTERSTRIKE
+Regression testing is for end-users
+Not sure if i should do what user says or what actually makes sense
+Forget a semi-colon Accidentally the whole application
+When it finally works..java, he comes along..and he says...  NUHNULNULNULNULLLLLL
+Check Network Settings Power cycle router Manually Set Ip Address Turn off other Computers Reset Modem Call Cable Company Cry Pray to God  WIRELESS SWITCH WAS OFF
+"To be, or not to be, that is the question: [...]" (2b||!2b)==true
+Figure out the algorithm Let the interns do the boring shit
+I CAME HERE TO WRITE CODE AND CHEW BUBBLEGUM AND I'M ALL OUT OF GUM
+Good practice? HAHAHaahahaahaah
+Tough Guy Tech Support Doesn't care about your problem.
+My dick Causes a stack overflow
+Eclipse crashes "Internal error while trying to handle an internal error"
+5 hours working on a bug 1 line of code to fix it
+Run Program Normally: Crashes Run in debugger: Works perfectly
+Should I fix TFS workspace issues? Or just work uncontrolled?
+It works! well, not that part
+The program works correctly... dont know why
+Eclipse Juno: 3 Errors Eclipse Juno: 1,056 Errors Fixes errors, refreshes the code
+3 lines in code 3 pages in comments to explain
+Write a code Schedule code review to debug code
+Run code for first time works ON THE SECOND IT DOESN'T
+Advanced Higher Computing The world's greatest staring competition.
+YEAH I'M PRETTY SURE THEY WON'T MISS THAT FEATURE
+Shown complex problem, fixed with 5 line script Shown simple problem, 2 weeks of pulling hair out
+Oh shit where is it. My mothership?
+Well, it compiled. That's enough testing for one day.
+Pretends to create code PORN BINGE
+Write a code. Wait, this fixed the problems I had before.
+He updated his relationship status to be with another guy Fuck homosexuals, I'm deleting this homo.
+write some code... it doesn't work in ie8
+DELETE SYSTEM 32 31 MORE TO GO
+Installs 4 different versions of GCC Thinks he's badass
+FUCK I DON'T KNOW WHY THIS ISN'T WORKING
+Should remove this code ... May need a Facebook Sims break
+Didn't read Reddit all day. Doesn't get joke Searches through comments for clues
+Write code Go back and look at it thinking how awesome you are
+Can't reproduce a bug found in testing  FIXED
+Open up Eclipse, wait... FUCK IT I'M USING NOTEPAD
+My logic works I have no idea why
+I'M NOT WEARING ANY PANTS
+I forgot to eat lunch  It was the predicates. 
+if (boss.vicinity == near) {output("Hmm...")} else {Me.conscious = False}  
+Compile a code - hundreds of errors *INSERTS SEMICOLON*
+wait a second, this was working yesterday!
+Write a code HATE SELF
+SPENDS AGES WRITING COMPLEX ALGORITHM FINDS IT IN THE STANDARD LIBRARY IMMEDIATETLY AFTERWARDS
+Always gets urge to code when blackout drunk Doesn't understand how algorithms work next day
+Write some code Go back and look at it thinking how awesome you are
+So Eclipse has autocomplete like Visual Studio? Um, no. It doesn't.
+YOUPORN SERVER DOWN PRAYING REDTUBE IS AVAILABLE.
+5 HOURS OF DEBUG ONE FUCKING MISSING " ; "
+computer programmer humor on reddit? off by one
+Turn poorly designed edge case  into a feature by updating the MySQL docs
+Error message code: 2145432fds234f4g whats your solution? Make a code 325r2432 Kill a 132rfds WTF
+Write one line of code Go back and look at it thinking how awesome you are
+Write a code, it works. some days later look at it thinking "this shouldn't be fucking working"
+IN A RUSH TO LEAVE WORK 100 BUILD ERRORS
+Fix bug Introduce five new ones
+Compile. 94556 errors. Add 1 semicolon. Hit Compile.  Compiles fine and runs perfectly.
+Girls want to have sex with me? Yes! 170 APM!
+Does agile mean... That sales takes 18 months to figure out what customers want and give us 30 days to build it?
+Not sure wtf I was thinking originally Caption 3 goes here
+Error. WHAT THE FUCK IS WRONG WITH THIS!
+Tries Windows 8 Developer Preview Becomes metrosexual
+successful new hire 20 projects on deadline
+PhoneGap WHERE THE HELL IS THE WEB INSPECTOR?!
+Mario Gotze is transfer listed for $25m on deadline day Deal or No Deal...
+IT COMPILED READY FOR SYSTEM TESTING
+Write line of code go to meeting and make yourself sound important
+Write a code Invalidate 20,000 records in the production database. Caption 3 goes here
+Ignore exceptions Because it makes program crash
+First Compile.  No errors.  I have no clue how to start debugging....
+Checks code in early so the other guy has to merge his changes
+¿quien carajo hizo este codigo de mierda? git blame. Uh, fui yo.
+She thinks she's a rebound Should I tell her 'that's foul'?
+Code finally working Databases get updated to Alpha version and breaks all code
+SEGFAULTS MUST BE COMPILER BUG...
+Write a code Go back and look at it thinking who wrote this crap
+Write a line of code Spend rest of day on Reddit
+Bad Mood = No Comments in Code Good Mood = Novel on Every Line
+Opens Eclipse WHY THE FUCK WON'T YOU WORK
+Compiler? More like complainer.
+You typed = instead of == "Why won't you work!"
+Keine Sorge Ich bin der Bundestrojaner
+Write a code WHY THE *^&%$ WON'T YOU WORK
+Captions a meme Go back later, look at it thinking "How can I change the text to whore karma?" Caption 3 goes here
+Documenting code /*You are not supposed to understand this*/
+Use words like modulus and quaternion and concatenate I'll bet they think I'm a mathematician, lol
+Write a programm for a friend I AM ALPHA AS FUCK
+Extreme OOP programmer ninja Can't drink a Pear Juice
+Read a spaghetti code I STILL MAY HAVE CHANCE FOR A SECOND CAREER
+I know it sucks honey but i must finish this report WILL THIS PORNO EVER LOAD?
+udah buka MS Word buat ngerjain laporan MPO Tapi gak tau apa yang mau diketik
+Bash Keyboard Guess It Didn't Work
+"This function could be more efficient" Never works again.
+Yes mom I'm doing homework, Just ignore the facebook tab.
+Hates on other programmers' errors Makes the same fucking mistake later
+Creative had 3 months... I have 6 days?
+Works perfectly Refactor EVERYTHING
+Boss says everything works fine now go back on document your code for future employees Yeah??? if they want to make changes they are going to have to find and pay me wherever i am
+Reading other programming memes about syntax errors.. Why the hell don't you people use IDE's?!
+Create meme about a software programmer Don't know the difference between programmers and IT
+while  ( x  -->  0 )  WHILE X GOES TO ZERO MUST BE A NEW OPERATOR
+*Girl say's BRB* *Still Think's she will be right back and wait's* (4 Hours pass) 
+CHECK CODE FROM A YEAR AGO FIND A COMMENT YOU LEFT FOR YOUR FUTURE SELF
+ 
+Firefox for firebug. Chrome for browsing.
+MY CODE WORKS I HAVE NO IDEA WHY
+MEU CODIGO NAO FUNCIONA: EU NAO SEI POR QUE MEU CODIGO FUNCIONA: EU NAO SEI POR QUE Caption 3 goes here
+Upgrades to Visual Studio 2010... ...uninstalls Visual Studio 2010
+Code doesn't work Refresh page...okay that fixed it
+That's different. DELETE
+solves one mistake two other mistakes appear
+My wife asked me to buy a bottle of milk, and if they had eggs, buy six. Bought six bottles of milk, they had eggs.
+I want to make a meme for Roel but I don't know how to code it
+Home Page has one bug PLEASE FIX HOME PAGE no longer exists
+Write code Wonder why the heck people keep saying "writing a code"
+I have no idea who you are
+Write a class: 500 lines Unit test said class: 1500 lines
+Missing curly brace. Spend hours trying to find where it goes.
+Write a code Go back and look and think what the f*ck have I done
+Write code, don't document Come back later. "What the f**k did I do?"
+Don't Know How To Write A Code FUCK IT
+Okay, so this should fail now... DOESN'T
+20G SQL dump taking FOREVER NEED Google Fiber
+cant understand why if tree keeps breaking  it's because variable being tested is month-old placeholder that was never assigned a value
+wife coming home in a few minutes c'mon porn! why when i need you most, you fail me?
+Hmm wife at the store.. Asian porn today!!!
+USES GLOBALS BECAUSE THEY ARE RETRO
+After 12, I make this face and stop picking up calls.
+Find Linus' Dildo // TODO: Fuck this.
+Asked by project manager how long program will take to complete Thinks to self "fuck you I'm not even starting for another two weeks"
+PC LOAD LETTER WHAT THE FUCK DOES THAT MEAN
+Put controllers in containers Because it's easier
+hack into facebook to look at some hot guy's photos i am karin - the code master
+Call out offensive status Wonder where your comment went
+Oooh, a notification on Facebook! ...I'll wait 5 minutes so it's not obvious I'm always checking it!
+Spend weeks writing code... idiot wonders why it wont work on mac
+HOW THE FUCK DID THAT PIECE OF CODE EVER WORK??
+Why won't you compile, oh C++  Fuck it, I'm learning perl
+Too Hard?  Pass it up! Too Easy? Pass it down.
+I can't help but to\n think in regular expressions.
+default x to None check it with "x is not False"
+IS THIS CODE EVER CALLED??
+stuck for 2 days FRIEND FIXES IN 5 MINUTES
+My code is perfect. So there must be a bug in the optimizer.
+Write a code No wonder this does nothing, I wrote a code, not a program.  Caption 3 goes here
+THAT'LL TAKE 2 MINUTES STILL WORKING ON IT 2 DAYS LATER
+"Annoying facebook girl has answered a question about you" FUCK
+Wants to do an Android app everything's already been done
+OPERATOR OVERLOADING EVERYWHERE
+Make a change via FTP Realise site is in SVN Caption 3 goes here
+"HELLO WORLD" I'm a fucking genius
+Programmeren voor dummies Hoezo , 44 compilation errors?
+"Can you write a code for me?" Yes, I can WRITE CODE for you
+NullPointerException Where is that damned pointer!
+This foreign recruiter wants my resume... For an onsite 6 month contract job 1800 miles away. Delete.
+Wish this wasn't me But sadly it is
+Recoding this for the last time Recodes again 5 months later
+Finish code in two weeks Spend 3 month debugging
+s.Replace("this", "that"); WHY WON'T IT WORK!?
+WHAT MORON WROTE THAT SHIT? UPS... SORRY BOSS
+Write Mathematica Code Ctrl+Enter... ERROR
+See invalid double value. Wants to change to NyaN
+Who wrote this shit! oh wait
+Complaints of website broken MAGICALLY FIXES ITSELF WHILE LOOKING AT SCREEN
+Purge a file I accidently the whole thing....
+Oh this code isn't too complicated! I WAS WRONG
+Billwie again... Damn he's stupid
+Write a script in 2 minutes DEBUGGING FOR 2 DAYS
+Code doesn't work   ASK Micheal!
+Write a code for Dr. Brown What do you mean I have to do it a different way ?
+Dear QA Team, IT'S A FEATURE
+PC Load Letter? What the fuck does that mean?
+Comic Sans... WHO WOULD DO THIS
+FUCK I NEED TO REFACTOR EVERYTHING I'LL JUST ADD AN UGLY PATCH
+USER INTERFACE ALREADY CLOGGED UP ADD ANOTHER BUTTON
+Make 100 changes. Doesn't work. Undo 99 changes. Doesn't work. Undo last change. Works. Redo all other changes.
+Holy shit an error! Oh forgot a colon
+I write amazing code After 8 hours of sleep and when under zero stress
+No me asusto por las Playboys que guardas en tu netbook Pero deberiamos intercambiar el material
+Write a code this would work if I wasn't watching x-files all the time
+I can't do this anymore, forget it! Just kidding, I make $100k/yr.
+CODE WORKS: TAKE A BREAK AND CHECK REDDIT CODE FAILS: TAKE A BREAK AND CHECK REDDIT
+Write code WHY THE FUCK WON'T YOU WORK
+Spend 3 hours trying to fix code Find one extra colon
+IF (4NZ4T0R.PC = BAD) ITS TRUE NOF IF HERE LOLOL
+Should I wait for counterstrike... or just open the full version of halo
+My code doesn't work Let me run through the logic and use proper break points and logging to figure out the issue.
+Code doesn't compile Reddit it is
+Commits code to production Then tests it
+Code Breaks because of something I did Assign bug to someone else
+Should I remove this code ... or just comment it out until the client changes their mind
+Open up IDE Looks like you are doing work
+MINECRAFT crashed already in withdrawl
+Moving from PHP to PHP framewprk CAKE HMMM Cake......PHP
+<-----------------------<<<< beware of font-based arrows.
+Write a code, leave it for a day ...What the fuck does any of this mean?
+It's hard to scroll and learn harmonica
+Read countless captions of people saying  "write a code" Laugh because REAL pogramars.. programers.. programor.. REAL CODERS DON'T SAY THAT
+REPLACE GLOBALS WITH DEPENDENCY INJECTION NOPE
+NEED NAME FOR VARIABLE V FOR NOW, I'LL CHANGE IT LATER
+Program works. Optimise it Doesn't work.
+Should I remove this code ... or just comment it out until the customer changes his mind ? Caption 3 goes here
+Oh, shit! SQL injection! s/'/`/g; All better.
+SVN to TFS? Better use GIT.
+Hmm... Got leaped on 4 times in a row for Majordomo.... Psht. Fucking RNG.
+Writes code Tests it during production
+Regularly browses internet Amused by a butt
+FLASHING ADs!?!?!?! im gona click just one....
+everlasting gobstopper? WHY THE FUCK WON'T YOU WORK
+It's working perfect. WAIT, SOMETHING MUST BE WRONG
+I don't understand... WTF HYPER 212!!!
+WTF !?! WHO DID THIS ???
+HOW DO I DOWNLOAD A PROCESSOR?? 
+Simple code isn't working Where the fuck is that missing semicolon?
+UPDATE SOURCE CODE PLEASE GOD NO CONFLICT
+OMG  NOTCH RETWEETED ME
+Write big ass code Forget what code was for
+Spend two hours trying to fix program MISSING +1
+See code, check SVN Jeffrey wrote it. REWRITE
+Invented Prepay Has hispanic girlfriend
+Taking 18 credits for SE degree COULD YOU WORK WEEKENDS TOO?
+Got 3 days! To write a weeks worth of code
+Compiled code contains 175 warnings. Fuck it, Publish App
+Claire Burum Is a big fag!!!
+man I've been waiting for an hour for this porno to load But I don't want my brother seeing that it's his sex tape!
+Write a code FUCK YOU INFINITE LOOP
+Wants to learn how to program 
+SOLID? Sure, my code is solid.
+200 Variables Later... x199 = null; Try to debug: WTF was x for...
+Full browser compatibility? No one uses IE anyway.
+Day 22 Crap.
+Forget Semicolon REWRITE ENTIRE CLASS
+My name is Craig Comito.... WHY THE FUCK WON'T MY COMPUTER WORK
+Write a code Y U NO WORK
+Writes a bunch of loops. Code fails miserably Used = instead of == once
+HAS TO GET INTO THE MIND OF SOMEONE ELSE TURNS OUT IT'S AN OPEN SEWER Caption 3 goes here
+Creates tractable algorithm to solve the Traveling Salesman Problem Still masturbates in basement
+Think of something clever to post? FUCK IT, MAKE OBVIOUS OBSERVATION INSTEAD
+Should I Code? Or watch porn??
+Saving code... WAIT, WHAT?!  THE COMPUTER'S HANGING ON ME!
+Write a code OH SHIT IT WORKS *undo*
+Change nothing, compile again Everything is ruined forever
+Comparing two floats within a tolerance NEED MORE TEST CASES FOR BOUNDARY CONDITIONS
+Too lazy to comment code No idea what any of it does anyway
+Followed advice dog's advice DELETED SYSTEM 32
+Code In .NET LOL, WHAT THE FUCK AM I DOING?
+Should I Erase That? NOPE! MY BALLS ON HIS FACE IS EPIC!
+Spend 5 hours trying to debug, end up rewriting half of code MISSING SEMICOLON
+Document a code /*You are not supposed to understand this*/
+Write a meme Go back later, look at it thinking "How can i change this text to gain karma?" Caption 3 goes here
+Write a code in production while oncall to fix something Accidentally rm* without specifying file names
+This is an awesome application ...Thank god...i dont have to use it.
+A Boolean he says... wtf is he talking about
+Hates people who don't comment their code Never comments his code
+ARC GIS IS WORKING BUT I HAVE NO IDEA WHY
+UPS OVERLOAD? OH, IT'S JUST LOGVIEWER
+READS DEFECT REPORT DOESN'T BLAME USER
+DIVISION BY ZERO OH SHI-
+Write some program Compiles without errors, consider it job done.
+I wonder when this fucking cop leaves the cafe? i want to watch child porn again
+Should I tell them this would be so much faster as C++ compiled code Or keep my job writing the teenage equivalent of VB scripts
+Writes workaround hack for testing purposes Commits it to production
+why wont my parenthesis work #coderproblems
+I came here to fuck bitches and write code Unfortunately, I'm not making progress on either
+LEARNED HOW TO WRITE CODE TODAY MADE A WEBPAGE WITH HTML
+4:45 PM Boss gives you a quick update to complete by EOD. Takes 4 hours.
+Extrovert coder Looks at your screen when hes talking to you.
+Program is fine, but the equation it was written for is wrong FFFUUUUUUUU-
+Can't understand programming assignment before due date Changes local variables in friends program...gets a 100%
+Recoding this for the last time Recodes again 1 month later
+Code doesnt work look for a space
+DON'T KNOW IF FEATURE REALLY COMPLEX OR PRODUCT OWNER REALLY STUPID
+Debug a code Who the fuck wrote this shit?
+So much porn just so many options
+New project assignment: Dang, this new code looks funny.  Whatever happened to FORTRAN?
+Write a code FUUUUUUUUUCK
+You found a bug? WORKS ON MY MACHINE!
+Write a code: 4 hours Debug same code: 4 weeks.
+Writes Hello World program Syntax error
+Writes some code, time to FTP Lost internets...
+aahhhaaa!! i finally got the username and password justin beibers facebook account wait it's super happy rainbow sparkle unicorn 65??
+function summiere(x)   {     summe += x     anz++   }      /^daten|wert$/ {     summiere($2)   } Ich kapier das einfach nicht was der computer von mir will  
+Reading someone else's code Not sure if you stupid or code stupid
+Write a code It's working, it was designed to not work
+I have to update my Okcupid profile
+Wrote code to test a function,  it works Copied code to where it needs to be, entire program breaks
+Spend 2 weeks writing a program Someone wrote the same IN 5 DAYS
+Forgets one semicolon WTF 90 ERRORS?!!?!!
+Holly Shit... Yesterday was working and I didn't move a thing today
+aaron wall is a fuck doctor?
+Writes a code to copy a picture FEELS LIKE A FRIGGIN GENIUS!
+Spend hours on a new feature for a program BOSS DOESN'T LIKE IT
+If I can make it through this tutorial... Then I can add this language to me resume.
+My code doesn't work Welp, time to check Reddit.
+W.W.Z.D. What would Zach do?
+. . . . . Yeap, that's code.
+Obtain worthless Brewfest trinkets.. Spend hundreds of gold to put it in void storage.
+pr0nnit lataukses kyl omistuu
+Write perfect code have checkstyle ruin it
+NOW HOW DO I HIDE ALL THE PORN ON THIS LAPTOP? 
+PROGRAMMING IN C "If I stare at it long enough it might start working..."
+Sploh se ni sprogramiran pa crkuje!
+Update someone elses legacy code Thank fuck it's as bad as mine
+COPY CODE FROM OTHER WEBSITE DISPLAYS DIFFERENTLY
+Change nothing, compile again Everything is ruined forever
+Spend 3 hours writing a code WHY THE FUCK WON'T YOU WORK
+www,facebook.com WHY THE FUCK WON'T YOU WORK
+Mirin my code While Greg sucks me off under the table
+Using generic types specifically
+MY CODE DOESN'T WORK, I HAVE NO IDEA WHY MY CODE WORKS, I HAVE NO IDEA WHY
+Write Mathematica Code ERROR 
+Hmm.... this'll take some thought... Better just ask an atty to do it for me!
+I wonder when this fucking cop leaves the cafe i want to watch child porn
+Find bug in code Spend hours figuring out who to blame.
+Debugging since 5 hours Find out bug is in compiler
+FUCK IT GOING TO LUNCH
+Writes core mechanics for a game NOT A SINGLE FUCKING COMMENT
+HEADLINES 7 FANS COMMITTED SUICIDE BODHANG BADEVER LEFT FUN FUN GROUP TODAY
+LOW FPS IN STAR BATTLE? -HIDE BG!
+Complain about the code that blew up in production while oncall. Look in the comments section, you modified the code last.
+One tweak on the kernel The world ends...
+1.5kB Memory Leak FORGOT TO CLOSE FILE HANDLE
+Looking for Flash Drive SEND OVER 9000 EMAILS
+if (var = true) 5000 ERRORS
+It's working in every browser but Internet Explorer
+do homework on computer JUST ONE MORE STUMBLE!
+This code was broken a second ago, now it works... Fuck it, wait for a bug report.
+opened a new comment thread better find the reddit gold posts first
+Clean... clean... clean... restart eclipse ECLIPSE BACK IN BUSINESS
+Random number function? return 4;
+HOLY SHIT  BRAIN SURGERY
+Finally finish 2 month long project... LEARNED SOMETHING NEW, REWRITE ENTIRE THING
+NICE LAPTOP WHY NOT MAC
+Code for iPhone Giggle at "Touch Up Inside Event"
+Write a code that usually takes 5 minutes Spend 6 hours debugging Caption 3 goes here
+GAH i've been doing this for hours... WHY THE FUCK WONT YOU WORK *Changes one character* Works perfectly
+hmmmm, Two girls one cup? ill give it a shot,that sounds hot
+Exception has been thrown by the target of an invocation WHAT THE HELL DOES THAT MEAN?
+*HEADLINES* 7 FANS COMMITTED SUICIDE BODHANG BADEVER LEFT 'FUN FUN FUN' GROUP TODAY.
+WILL THEY NOTICE IF I REMOVE THAT CRAP?
+Barely Change Names of Variables Never Understand it Afterwards
+Finish feature. There will always be more features.
+PC Load Letter WHAT THE FUCK DOES THAT MEAN?
+IT'S WORKING BUT I HAVE NO IDEA WHY
+Spend 3 hours writing code Spend 5 days debugging
+Vamos a ver si funciona la macro... MIERDA PUTA JODER
+Hmm.. enfinity by Germans VM inside VM, must be great.
+Code doesn't work Needs more swear words in the comments
+Anti-Virus 2012 wants to Update? Well I better do it!
+if (!disabled || !notRemoved)  OP = faggot;  I understand.
+Forget to comment Rewrite whole game
+OPENS GOOGLE "XCODE FOR WINDOWS?"
+serious face Trying to use webcam for porn
+Regression Testing is for end users
+Write code... WHY THE HECK DON'T YOU WORK?!
+I know I suck at programming... Why the fuck did I open this source code?
+Write Gmod code with an error BLAME GARRY 
+Make huge modifications to design document Crappy version control let someone else overwrite it
+Code works? Client breaks in 10 seconds
+These 'errors' are not errors... Restart Visual Studio!
+2b||!2b, that is the question! true, that is the answer!
+I have a great idea for a program! Browse Reddit for 6 hours.
+MMMM,Codice ASCII.. Vediamoci un po' di porno e poi cerchiamo su Google cos'e'
+Mixes lowercase and capital methods OVER 9000 ERRORS?!?!
+NOT SURE IF MEG GROUP PAGE OR NOW MEME PAGE...
+signs up for google+ first search "what is google"
+It seems like it's working but I don't remember writing this BECAUSE I WAS DRUNK LAST NIGHT
+spend 7 years unemployed making losethos ...that's the joke
+Program doesn't work.  Add a bunch of debugging output. WORKS PERFECTLY
+My IDE doesn't freeze often But when it does, I haven't checked in my code in several hours
+Teacher didn't copy and paste code correctly Says my compiler is broken
+Commas, report in! One of you little fuckers is supposed to be a period.
+Losing job in a month... Logic bomb
+Notch tweets code scared of next update
+Write a code Doesn't work right, add 10x the code to fix it
+please work, please work... SEGFAULT
+DEV LAPTOP Y U NO MACBOOK?
+PRANKS LAUREN APOLOGIZE ON HER FACEBOOK WALL
+WRITE SUBSTANDARD CODE AND SAY YOU'LL REFACTOR LATER WAIT FOR NEVER
+Spend 2 weeks writing a code "2 WEEKS? I DID THE SAME IN FIVE DAYS"
+Writing a code to find the fucks I give... NullPointerException
+Spec asks for something riddiculous Pretend its a typo
+Unit testing the unit test helpers finding bugs in them
+Why isn't this code working? maybe if i stare at it some more
+I GOT 99 WARNINGS BUT AN ERROR AIN'T ONE
+Read future js code THREADS! NO SHARED OBJECTS! TIME TO CAPSIZE THIS BOAT
+Read my comments WHY IS CODE THAT DOES NOTHING MARKED "THIS IS CRUCIAL"?
+Where do i put the easter egg, hmmm..... 
+FUCKING WINDOWS 98!
+Just done this coding tutorial on YouTube for a program. Why isn't it working! 
+Linker error I am fucked.
+I am a coder dammit!!! HTML IS a language!
+My name is Craig Comito...I've made sure to take Bill's advise and write my password down... ...SO WHY THE FUCK WON'T MY COMPUTER WORK!?!?!?!?
+Abbot YEP, IT'S A SHIT PROGRAM
+Who is peer...? And why the fuck does he keep resetting my connection
+Didn't buy Starbucks this week Can now afford computerized exams
+Finish coding. Compile. Errors found. Reddit it is, then.
+Debug a code Who the fuck wrote this shit?
+Write a code WHY THE FUCK WON'T YOU WORK
+You can't see his face hahaha OR HIS COMPUTER
+JAVA Y U NO HAVE LESS ERRORS
+Oh, I was sued by Bethesda?  Was this something to do with saying Scrolls? 
+Using Swing WHY WOULD YOU BE SO CRUEL
+Write Program Spend two hours debugging only to find a Capitalization Error
+Added new code ...program does not work.  Comment out so I don't forget what I was about to do.
+100 errors missed semicolon
+Write no code HOW THE FUCK DO YOU WORK
+Should I remove this code ... or just comment it out until I change my mind?
+Everyone is a programmer JUST LIKE THEY ARE "HACKERS" ON PEOPLES FACEBOOK
+it says delete cookies... but i like cookies
+LOAD ALREADY GOD DAMNIT! ...FUCKING COUNTERSTRIKE!
+Code not working? TO GOOGLE!
+I am a coder dammit!! HTML *is* a language!!
+Bored with writing banking software Browses through co-workers temp Internet files
+Read e-mail to all engineers WTF IS GOING ON HERE?
+Get code you need to fix in programming assignment Fix all errors, inadvertently create new error
+class Woman{} OBJECTIFYING WOMEN
+Understand logic and syntax go to write code and forget how to do it
+10 Write code 20 Check Reddit GOTO 10
+Dashboard says my code fails Oh well, works on my box
+Write in C++ Keep accidently typing "cunt" instead of "cout"
+Write a code Endless Loop
+Random Urinalysis?! Oh damn... What did I do last night?!
+Uhm son how do i do this (son) dad you cant evan text come on
+Honey, you here?  No? Time for porn.
+SEES COOL EFFECT DONE IN FLASH REPLICATES IT IN JAVA
+MY LOGIC WORKS I HAVE NO IDEA WHY
+Got a blowjob the second I got home I don't know why
+Maybe if I go to the Registry Editor, I could get rid of this virus Deletes HKEY_CLASSES_ROOT value
+INTELLISENSE WHY U NO LET ME TYPE WHAT I WANT???
+SIMPLE FEATURE TO DEBUG WHY SO MANY LINES OF CODE???
+Find intern's code // TODO: Fix this.
+Write code DELETE! DELETE! DELETE!
+PROGRAM KEEPS THROWING EXCEPTIONS TRY-CATCH
+client wants program written in C#... *writes in vb.net*
+Sera que devo apagar esta parte do codigo ou comentar?
+Adds a temporary variable for a test STILL USED
+The method has been depreciated? Then why the fuck is it still here?
+DON'T WRITE A SINGLE LINE OF CODE FUCK IT WE WILL DO IT LIVE
+Looking at shit What the fuck is this shit?
+is this html5? I don't think this is html5.
+Develop Software and Work with Spreadsheets Labelled as IT
+14 00 01 51 00 1e 90 00 0f 0c 00 12 50 00 0a c1 00 1e 70 00 01 e1 00 1e 04 00 00 00 30 zz? SPEND HOURS TRYING TO FIGURE OUT WHATS WRONG
+Write a code STOP FUCKING SAYING WRITE A CODE
+Have to maintain legacy application It'd be less work to rewrite it
+This is not Hello World
+Copied what the teacher input MATLAB Still doesn't work
+"Password or username incorrect" Fuck, which one is it...?
+Unfinished code gets released DIES
+Code 1 million lines in unix didn't make one shitty img
+Your teammates watch youtube, play online games, and browse FB While you did all the work for your team and billed the same from the client
+My life in a single line of code while(1);
+FOR FUCK'S SAKE, INTELLISENSE WILL YOU LET ME TYPE WHAT I WANT??
+Environment variable not defined? c:\temp\titpics... DONE!
+Lexical analyzer? I hardly even know her!
+Write a code Segmentation fault 
+Steve Jobs is dead Who will name the iPhone 5? .........oh..
+Steve Jobs is dead WHY THE FUCK WON'T YOU WORK
+Avasin muistion ja ajattelin koodata pelin. Mutta miten vitussa?
+Sure, that's easy.  Lets add some jQuery on click actions
+Write entire program in one weekend Spend 6 months debugging
+Reviews Own Code... WHAT DOES THIS EVEN MEAN?
+Copies and pastes code from a website on Java development Has no idea how it works or how to debug it
+cant tell why Rabbi Fleksher   is still trying to grow a beard clearly didnt hit puberty yet
+Write code in C WHY THE FUCK AM I WRITING IN C?!
+I'm a programmer / web designer Only uses WYSIWYG
+If I strike my thinking pose The boss might think I have a clue why this doesn't f'ing work
+Platypussy... that shit's real 
+if this fucking language had a decent macro system I'D BE DONE ALREADY
+IS IT  = or ==
+My laptop is in a docking station... FOR NO GOD D@*N REASON!!
+Wrote code to test a function,  it works Copied code to where it needs to be, entire program breaks
+"Why isn't it working?" Two Hours Later.... Story of My Life: "I never put that semi colon there!"
+Hours debugging loop. Look again. While (condition); Kill yourself
+Debug for hours. Turn in assignment late. Only missing a ' ; '
+1900x1200 SCREEN RESOLUTION CAN ONLY SEE 10 LINES OF CODE
+Hundreds of lines of code forgot a period somewhere in the middle
+FIXED THE PROJECT TIME FOR REDDIT
+Is this where the facebook is?
+2b||!2b, that is the question! true, that is the asnwer!
+Sure. Lets roll a dice. Lowest has to do it
+Code doesn't work Go to Starbucks for an hour
+I BROBKE IT!!! but...it works,why? wait()
+i am the killer god of counter strike omg go fu nob awp user -.-
+Deploy application Users abuse the "note" field
+THE FILES ARE *IN* THE COMPUTER?
+Algorithm not working ... Too stubborn to use google.
+searching the bug for 3 hours... forgot to put a semicolon
+Going to miss deadline. IM FUCKED. (and probably fired)
+Ready to test code ECLIPSE IS FROZEN
+query, query quite contrary
+Write a code YOU LOOK LIKE STING
+DON'T KNOW IF REFACTORING WILL MAKE CODE BETTER OR WORSE
+C++ TEMPLATES WHY U NO COMPILE??
+Java dependency? Installs Flash
+I was sued by Bethesda?  I wonder how that happened
+It's working ON MY MACHINE
+explain genetic programming to your parents receive lecture about terminators and skynet
+WOW U SO FAST NET HAVARD U CAN DOWNLOD MENY BUTRAP VID
+Será que devo apagar esta parte do codigo ou comentar?
+Write code NOT write a code, WRITE CODE. not A code.
+"y0(_) /\23 /\ /v008" 2 Hours trying to read that fucking comment.
+I can't reproduce that bug... but I can't just tell my boss he's an idiot...
+Fix this Or make meme images
+Apparently good-code doesn't work must be a bug on the O.S.
+Writes a program In Visual Basic
+NEVER COMMENT HATE OTHERS FOR NOT COMMENTING
+My life summarized in a single line of code:  WHY THE FUCK WON'T YOU WORK
+Says it will take 30 minutes to implement a feature spends 10 hours on it
+thinking drives behaviour has no systematic way to assess thoughts
+If i was bashmohandes gad I'd have solved this in no time
+So if it's not > then it's < that means it's not > or < 
+NIGERIAN PRINCE WANTS TO GIVE ME $1,000,000? WAIT...I DON'T KNOW ANY NIGERIANS...
+Run Code - Error. Add breakpoint Step through code line at a time. Error does not happen.
+Spend 5 hours struggling to find out why the code is not working It was missing a ;
+if i was a real programmer i'd be writing code not staring
+Post a video.... If Whitney can do it so can I ...Danget
+printf(); IT'S NOT DANGEROUS INTELLISENSE
+Knows who changed his code By the style of indentation
+Build expecting no errors Who am I kidding, this is C++
+REGEX INSIDE JAVASCRIPT INSIDE ATTRIBUTE INSIDE PHP MAYBE ONE MORE PAIR OF BACKSLASHES
+Write code WHY THE FUCK WON'T YOU WORK
+use prolog for lulz
+Watching porn, someone walks by act like studying for quiz
+"I just don't get it..." "It worked on MY computer!"
+copy and paste, or cut and paste?
+New Game feature codin' ... What about blindness? render() { if (blind) return; ... }
+WOW, I FORGOT TO REGISTER THE LISTENER I MADE.  THERE GOES THREE HOURS OF MY LIFE.
+GETS WEEK LONG PROJECT FINISHES IT IN 30 MINUTES, BROWSES REDDIT FOR THE REST OF  THE WEEK
+I don´t always refactor But when i do, it stops working
+Another virus WHERE THE HELL DO THEY KEEP COMING FROM
+Start new project "I will comment everything" Two months later  Self commenting code, lol
+Android app won't run Have to install Google API's WHY ARE THEY NOT INCLUDED?!
+Stare at the command line output HAVE A BONER
+VBA is not responding and i havent saved  Now we play the waiting game.
+Change single line of code Wait two hours while it rebuilds everything
+What sort of Easter egg should I include? Hasn't written a line all day.
+Can't code content for levels 30-75? Release the game its done!
+FUK HAVARD RELYYY BUTRAP VIDEO OUT ON INTERNETZ
+IT'S NOT WORKING AND I HAVE NO IDEA WHY
+"white space only" checkin FOUNDATION CORRUPT
+" 'Farmanimalsthreesomes.com'... I'm gonna kill that kid... Holy !@#$@! is that ME?
+Checks in code CRASHED SOURCE CONTROL DATABASE
+Write a paper for Mr. Krammer Now how can I get the best reaction out of him?
+fuckin sound. why can't you be 6 lines of code?
+This program has a lot of features (most of them are bugs)
+(print:()F%A%R%T) (repeat:()) FARTFARTFARTFARTFARTFARTFARTFARTFART
+WTF ?!?! HOW DID THIS?
+Copy a header file you already wrote but forget to change the #define guards. Spend forever trying to figure out what's wrong.
+HMM ACCORDING TO MY CALCULATIONS MY 570 IS 20% BETTER THAN ROG MARS II SLI
+When in doubt KAAS
+Try to look like I am thinking Alt-Tab to Reddit
+I see you drive an Evo Must be the new IT guy.
+I can write it the elegant way... but this way is quicker. Caption 3 goes here
+GIVE MANAGER 3 DAY BUG FIX ESTIMATE. FINISH IN 2 HOURS, SURF REDDIT FOR NEXT 5 DAYS WHILE DELAYING MANAGER.
+if ((life = false) && (brains = true)) { Success = true  The life of a programmer in a nutshell
+Code was working yesterday... Code Grimlens?
+Codigo escrito de uma rajada sem um unico erro de sintax nao importa, nao funciona!
+I PUSH BUTTONS AND MAKE MAD CHEDDER
+4 Hours contemplating it... Still can't think of the best name for that variable!
+Program stopped crashing. Code didn't change. Crap. Caption 3 goes here
+I've had to pee for the last 2 hours But I don't want to lose my train of thought
+I've been meaning to do homework for the past 2 hours But quick meme is so addicting!
+THAT BITCH IS IN LOVE WITH ME I THINK IT'S TIME TO ASK HER FOR A BLOWJOB
+WRITE UNIT TEST? MAYBE NEXT TIME
+Asks boss for a raise Next paycheck says NULL
+Adding 2 columns to this spreadsheet Would make things too complicated
+Should be writing code Browse Programmer memes all day
+What the fuck is he even trying to do?
+LESS TALK... MORE ALGORITHM
+Endless Loop: n., see Loop, Endless. Loop, Endless: n., see Endless Loop.
+Changes code, creates error Changes code back, error stays Fuck
+get assigned python in PLC look up cool snake pictures
+FML WTF
+Wow, Python really is easy... MUST BE BECAUSE I'M USED TO INDENTING MY 'SNAKE'
+Got a bunch of coupons in the mail Can now afford computerized exams
+Write several thousand lines of code IDE crashes, I forgot to save.
+Spends hours trying to find out why his code won't work Forgot a semicolon
+Comments are a love letter to your future self
+Mom asks to fix computer HOW TO ON YOUTUBE
+I am creating a new language: RaNdOm_CaSe or CapitalLetters Caption 3 goes here
+IT'S WORKING BUT I HAVE NO IDEA WHY
+Oh goodness ...  IF THIS IS, I SWEAR TO G- ... IT IS!
+Good luck Figuring out what I've done
+MATLAB AIN'T NOBODY GOT TIME FOR DAT!
+(frustrated/perplexed stream of consciousness rant) this is what our brains are like all the time
+green underlining for unused variables STFU GOD DAMNIT I'M THINKING ABOUT USING THEM LATER
+Breaks up with crazy girlfriend through e-mail on Friday. Goes to "lunch" on Monday.
+SPEND 2 HOURS CODING RUNS PERFECTLY FIRST TRY
+Code on GNU/Linux Con: Windows version is crap Pro: No viruses or bluescreens
+it totally worked until hideki looked at it
+No budget, no requirements and no project definition... But it has to be done in 30 days? Back to StumbleUpon.
+Types up coding for a game, creates a code for weapon system.
+Should I remove this code ... or just comment it out until management changes their mind
+WHO THE FUCK WROTE THAT SHIT? FUCK IT WAS ME
+Pedobear? That's seriously what you want me to block?
+Spend 2 hours writing code 2 months of scope creep
+Should I use Windows Live or iDead? Too Soon?
+"Being creepy is legal" FUCK YEAH TIME TO CREEP
+Write a code Y U NO CODE AUTOMATICALY??!!
+Add dragons now? No, time to mess with potions.
+Write a code FUCK YEAH! Best DFA Lexical analizer evaah!
+"To be or not to be: That is the question!" (2b||!2b)==true
+Wants to look at porn Someone looking over right shoulder
+Good, the code is working now to remember why I wrote it.
+Spend hours figuring out a bug NO ONE CARES
+No bathroom nearby. Will wait until can't wait anymore.
+Uses C++ Java has become too mainstream
+Created cool web service  Only content on it is meme spam from friends
+JASON SANGHA was tagged in brownchick123's photo oh no he didn't ... 
+I know I suck at programming.   Why the fuck did I open this source code?
+Never program without caffeine Never debug without alcohol
+DON'T KNOW IF REALLY CLEVER PIECE OF CODE OR JUST GARBAGE
+Writes code that exports data to Excel and PPT Has no idea how to use them
+Spend 4 hours looking for error Add ";" to the end.
+IT'S WORKING They can't see the porn
+maniacally click abort compile button bsod
+All else failed Ctrl+Alt+Delete
+I write efficient code IN JAVA
+copy some code gets tons of errors
+Programming languages cannot be copyrighted, says senior E.U. court adviser And neither can the functionalities of a computer program, according to an opinion on a case brought by SAS HOW AM I GONNA PROTECT MY CODES @ Arena-Tournament.com HQ
+Famous cause we program worldwide Let'em recognize from Long Beach to Rosecrans
+Stop naming all your assets "Texture01", "texture02"
+Replaces the outdated "password" website account security system. PROFITS
+STUPID FEATURE WILL MAKE CODE UNMANAGEABLE CODE IT ANYWAY
+Write a code WHY THE FUCK WON'T YOU WORK
+Don't know how to do it Google the solution
+Updates to HEAD 41 CONFLICTS
+It's working! Wait, now I broke that?
+Write a code... WHY THE FUCK WON'T YOU WORK
+Read programmer captions None of you actually program.
+if (!disabled || !notRemoved)  incomplete = false;  Wait...
+Writing out a string... better call ToString()
+Instruct off-shore team on conference call Realize there is a better way to do task. Spend all day re-writing code
+Job offer requires degree, 6+ yrs experience with certs AND have to pass their tests? For only 60k/yr. Fuck that.
+if((var1 <= var2) == false) What?
+Why am I on Reddit? Um... my code's compiling.
+FUCK YOU, I'M A PROGRAM TRY FIX ME
+I learned recursion today!  It must be better than using loops! The Fibonacci Sequence is going to be my bitch.
+Writes a script Realizes this meme is code-only
+Program doesn't work PRINT EVERY VARIABLE IN EXISTANCE
+Inefficient code, poor performance, difficult to maintain. Oh yeah... Developed in India
+Wrote 4000 lines of code doesn't compile yet
+Writes random code on a rented server Creates best Halo stat-tracking site of all time
+Check Stream See no one else is watching and leave
+THERE IS NO REASON FOR THIS NOT TO WORK ;
+I always get HIV Hypercoms, Ingenicos, and Verifones
+waiting for everyone to leave house masturbates to porn
+Code first Design later
+Spends three days installing FreeBSD and compiling everything Formats it right after and installs Windows 7
+Wife combined our names on one facebook page... Now Google can't even find my balls. 
+PROYECTO LLEVA 700 DIAS EN DESARROLLO HACE CORRECCIONES DURANTE LA ENTREGA
+Write code in C# Delete and write in python
+Fix doesn't work Rebuild everything and try again
+Name every primitive i or j what is this number. ;__;
+COMPILE - 11 ERRORS FFFFFFFUUUUUUUUUUUU
+Can't get this code to work Add 0, done!
+comes into work early spends all morning on reddit
+hmmm.. what should i do? Well..FACEBOOK it is!!
+Write a code WHY THE FUCK WON'T YOU WORK
+BROKEN CODE MAKES NO SENSE, TRIES TO FIND AUTHOR TO BITCH AT OH, IT WAS ME
+Error? But all my semicolons are fine! }
+THINKING DRIVES BEHAVIOR HAS NO SYSTEMATIC WAY TO ASSES THOUGHTS
+Search error in IT Toolbox  No solution posted for the last 5 years
+code won't work? sit and stare until someone helps
+(10 hours later) LOOK IT BLINKS!!!
+Write a code Come back later. What the fuck was I thinking?
+Hmm...Only 1 error after hours of coding... Fix error. 1000 more appear.
+Sitting on the PC, and eat some candy. DONT REMEBER.. HAVE I ALRDY EAT UP?!
+I'm so social I facebook in widescreen
+ FUCK
+"Access Violation" Oh, I know where the error is. Fixed. "ACCESS VIOLATION" FUCK
+Try to remove 1 feature End up rewriting entire application
+Lives on facebook is obviously the best memer
+Looking at error in my code "Who the hell wrote this crap?"
+START IDE WHY THE FUCK IS IT SO LONG??
+Okaaaaaay So this goes theeeeeeeere
+It has the same code Why does it not work
+writes yospos post about how lisp and haskell are so cool programs in java for a living
+WHERE IS MY PORN?!?!?!
+HM MY CALCULATONZ TELL ME 4NZ4T0RS COMPUTAR IS BAD
+SO I BOUGHT THIS MAC... AND THERES NO MINESWEEPER?
+GETS AN ASSIGNMENT TO DO WHERE IN THE FUCK SHOULD I START FROM?
+Hope you didn't piss off your boss. Your code is missing comment delimiters.
+My comments make no fucking sense
+Not sure if should do what boss said ... or do what would actually fix the problem
+Write a code WHY THE FUCK DO YOU WORK?
+CECE Y U NO COMEBACK?
+MAPS GO IN, ARRAYS COME OUT CAN'T EXPLAIN THAT
+Open small project from 5 months ago Stare for 5 minutes in confusion... FUCK IT!
+MY NAME IS BRUNO CASTRO-KARNEY JAVA CONFUSES ME
+Write a code So you wrote a code? now "Write code" or "Write some code" beacuse "writing a code" is just plain stupid.
+14 00 01 51 00 1e 90 00 0f 0c 00 12 50 00 0a c1 00 1e 70 00 01 e1 00 1e 04 00 00 00 30 zz? SPEND HOURS TRYING TO FIGURE OUT WHATS WRONG
+empty quote posts in yospos become a "respected" poster
+Hello my name is woudaman
+Will never be able to explain What the hell I'm doing
+Where may you be hiding Missing semicolon
+How the hell  Does 15+10=0x7FF28BCC?
+Why do you work when you're broken And not work when I fix you?
+INTELLISENCE WHY U NO LET ME TYPE WHAT I WANT???
+C++ TEMPLATES WHY U NO COMPILE??
+I WONDER WHAT THIS IS Oh, just a computer -_-
+10:00PM - I'll just fix this one bug then go to bed.  5:59AM - Did it, and it only took me......shit
+Criar uma funcao? Nah, copy paste do que fiz antes
+Spent 3 days on CSS Make company lose 85.000€ with a bug
+I have to sudo what to install this bin file? Fuck Linux. This is 2011 with buttons and shit.
+Compiler error Just you wait...
+To catch or not to catch That is the question
+Getting ready to code new website Design is in Adobe InDesign and 6000px wide
+Spends 2 hours re-writing a code Realize why the original code was correct.
+Hey Stack Overflow, WHY MY HOMEWORK NO WORK?
+get assigned python in PLC browse reddit
+IT WAS WORKING BUT HIDEKI BREAKS EVERYTHING
+Can't figure out how to implement a program Maybe I should just delete all my code and start over
+LISP The main reason that my hair turns grey
+Friday afternoon: code works perfectly. Monday morning: everything is broken.
+i just relized that the laptop folds why the fuck cant i get my porn
+Write a code Wait 5 minutes for tests
+THE MAP IS FULL I'LL JUST PUT IT IN ANOTHER MAP
+... wtf does html mean?
+Ctrl+v Hmmm... 
+Master of programming Still can't multiply
+1 Hour of Coding 3 WEEKS DEALING WITH CLIENT THAT KNOWS EVERYTHING
+So, I switched it on Now what...?
+I DON'T ALWAYS PROGRAM BUT WHEN I DO, IT IS ALWAYS COMPLICATED WORK.
+IT'S NOT WORKING BUT IT SHOULD
+Nao esta a dar? Prinf() por todo o codigo
+WRITES AMAZING PROGRAM...DOESN"T COMMENT CODE HOW THE HELL DID I DO THIS?!
+*CLICKS GENERATE*  BAM WEBSITE
+Spends 5 hours working on a bug Oh, it's caps sensitive?
+Which moron wrote this crap? Oh, it was me
+ Something is null...
+Getting ready to code new website Design includes about 400 typography nuances
+Code is working? Something must be wrong
+Compile glorious program Missed a bracket
+Try to fix bug break it even more.
+Write a code Go back and look at it thinking how awesome you are
+MD5 generation fails Didn't check return code
+Hydrogen, Xara, Kino? Why do Linux app names have nothing to do with what they actually do?
+JButton rickRoll = new JButton ("We're no strangers to love...") ;
+Needed to delete a file while oncall rm * ....
+WERE THE FUCK AM I MISSING A SEMIC
+Not Publishing? WHY THE FUCK WON'T YOU WORK
+Sent a picture of green urine WHY THE F*** DO I GET A COPY THAT SAYS "Sent From iPhone."
+I don't always have compiler errors But when I do, I have to go over 9000 lines of code to find that one fucking semicolon.
+Spend several hours trying to find bug Take break, come back, find bug instantly
+creates strongly typed system in python
+New Mac FUCK THIS PIECE OF SLOW SHIT
+configurable_products = Product.objects.all().exclude(configurableproduct__isnull=True) FFFFFUUUUUUUU Satchmo
+what is jared hochman doing? weirdo
+New job listing for senior developer with 12+ years .Net experience... When .Net wasn't released until 2002. And for only 65k! Delete.
+This code was written by our team in India They forgot to do the needful
+I've used Gamemaker FUCK YEAH!, I'm gonna make a programming meme
+Make trivial change in interrupt handler Device shits the bed
