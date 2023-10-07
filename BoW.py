@@ -1,4 +1,5 @@
 import numpy as np
+import json
 
 class BoW:
     def __init__(self):
@@ -31,6 +32,12 @@ class BoW:
             self.idx_to_word[idx] = word
         # Set the vocab size.
         self.total_words = len(self.all_words)
+        json_word_to_idx = json.dumps(self.word_to_idx)
+        json_idx_to_word = json.dumps(self.idx_to_word)
+        with open("word_to_idx.json", "w") as outfile:
+            outfile.write(json_word_to_idx)
+        with open("idx_to_word.json", "w") as outfile:
+            outfile.write(json_idx_to_word)
 
     def transform(self, data):
         """
