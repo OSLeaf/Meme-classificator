@@ -1,2 +1,4 @@
-['creepy_wonka.txt' 'optimistic_crab.txt' 'programmer.txt' 'sad_keanu.txt'
- 'stare_dad.txt']
+['Datasets/advice_dog.txt' 'Datasets/all_the_things.txt'
+ 'Datasets/creepy_wonka.txt' 'Datasets/optimistic_crab.txt'
+ 'Datasets/programmer.txt' 'Datasets/sad_keanu.txt'
+ 'Datasets/stare_dad.txt']
