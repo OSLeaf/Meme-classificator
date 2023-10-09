@@ -1,2 +1,6 @@
 env/
 __pycache__/
+coefs.json
+idx_to_word.json
+word_to_idx.json
+labels.txt
